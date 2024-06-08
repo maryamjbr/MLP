@@ -13,9 +13,3 @@ The training process prints the loss and model predictions at each epoch, allowi
 Epoch 0
 Loss: 2.011
 Predictions: [1.99, 2.01]
-******
-Epoch 1
-Loss: 1.988
-Predictions: [1.98, 2.02]
-******
-...
