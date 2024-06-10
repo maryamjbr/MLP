@@ -1,4 +1,4 @@
-# Multi-Layer Perceptron (MLP) Regression Project
+# Multi-Layer Perceptron (MLP) 
 This project involves implementing a Multi-Layer Perceptron (MLP) for a regression task using a custom neural network implementation. The training process is evaluated using Mean Squared Error (MSE).
 
 ## Project Details
